@@ -1,0 +1,29 @@
+{
+  "name": "node1",
+  "version": "0.0.0",
+  "description": "Test app to learn REST and node",
+  "main": "node1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jjk425/node1.git"
+  },
+  "keywords": [
+    "test",
+    "heroku",
+    "node",
+    "mongo"
+  ],
+  "author": "josh-kogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjk425/node1/issues"
+  },
+  "homepage": "https://github.com/jjk425/node1",
+  "dependencies": {
+    "express": "^4.5.1",
+    "logfmt": "^1.1.2"
+  }
+}
